@@ -1,0 +1,144 @@
+/* My Defaults */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+
+
+/* End of my defaults */
+
+/* DemoSection Start */
+
+/* p span{
+    color: green;
+} 
+ img{
+    width: 100px;
+}
+.text{
+    color: powderblue
+}
+
+.btn#mainButton{
+    background: green;
+}
+
+button#mainButton{
+    background: blue;
+}
+
+#mainButton{
+    background-color: yellow;
+}
+
+.btn{
+    background-color: #555;
+    color: white;
+}
+
+button{
+    width: 200px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: red;
+}
+
+button.btn:hover{
+    background-color: rgb(85, 134, 85);
+}
+
+.eynulla p span{
+    color: #ccc;
+}
+
+.eynulla span{
+    color: green;
+}
+
+.eynulla p{
+    color: red;
+} */
+
+/* Demo Section End */
+
+/* Block Level */
+
+/* #blockLevel > div{
+    background-color: #3b5998;
+    height: 100px;
+    border: 10px solid #ccc;
+    margin-bottom: 10px;
+    width: 440px;
+    margin: 10px auto;
+    padding: 20px;
+    overflow: auto;
+}
+#blockLevel > div.second{
+    background-color: #bd3381;
+    /* box-sizing: border-box;
+}
+
+#blockLevel > div p{
+    background-color: yellow;
+}
+ #blockLevel > div.second span{
+    background-color: white;
+    height: 50px;
+    margin-top: 30px;
+    display: inline-block;
+} */
+
+/* Main Template */
+#main .outer{
+    width: 95%;
+    margin: 1% auto;
+    height: 500px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+#main .outer > div{
+    height: 500px;
+    width: 50%;
+    display: inline-block;
+    overflow: hidden;
+}
+#main .outer .left{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+#main .outer .left img{
+    width: 50px;
+    margin-top: 100px;
+}
+#main .outer .left h3{
+    margin: 30px 0;
+}
+#main .outer .left p{
+    color: #ccc;
+}
+#main .outer .left span{
+    color: black;
+    font-weight: bold;
+}
+#main .outer .right{
+    background-color: black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+}
+#main .outer .right img{
+    width: 300px;
+    margin-top: 100px;
+}
