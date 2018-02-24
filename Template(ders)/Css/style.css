@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+section #main > div{
+    
+    
+    width:100%;
+
+}
+.left {
+    height:300px;
+    width:48%;
+    display: inline-block;
+    
+}
+.right {
+    height:300px;
+    width:48%;
+    display: inline-block;
+}
+div.left p {
+    margin:100px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Nanum Pen Script', cursive;
+    
+}
+div.right p {
+    margin:100px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Nanum Pen Script', cursive;
+   
+
+}
+h1.second{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Ubuntu Condensed', sans-serif; 
+}
+button {
+    display: inline-block;
+    text-align: center;
+    margin-left: 45%;
+    background-color: rgb(202, 194, 194
+    
+
+    
+}
